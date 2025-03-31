@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on my Porftfolio project 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Oriented Object Programming
+- 🌱 I’m currently learning Kubernetes 
+- 👯 I’m collaborate on Open Source Projects
+
