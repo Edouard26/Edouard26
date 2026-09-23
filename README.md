@@ -3,6 +3,3 @@
 
 
 
-- 🌱 I’m currently learning Kubernetes 
-- 👯 I’m collaborate on Open Source Projects
-
